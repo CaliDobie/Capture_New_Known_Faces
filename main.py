@@ -36,5 +36,5 @@ def take_and_save_picture(folder_path):
     cv2.destroyAllWindows()
 
 # Example usage:
-folder_path = "\your\folder\path\here"
+folder_path = r"\your\folder\path\here"
 take_and_save_picture(folder_path)
